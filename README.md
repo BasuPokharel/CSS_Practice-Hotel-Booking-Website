@@ -4,7 +4,7 @@ A simple HTML & CSS project built to practice front-end design. It is just websi
 > 🖥 Desktop-only layout (not responsive).
 
 ## 🚀 Live Demo
-🔗 [View on GitHub Pages](https://basupokharel.github.io/CSS_Practice-Mountain_hero_Page/)
+🔗 [View on GitHub Pages](https://basupokharel.github.io/CSS_Practice-Hotel-Booking-Website/)
 
 ## 🧰 Built With
 - HTML5  
